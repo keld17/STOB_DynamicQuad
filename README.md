@@ -1,3 +1,4 @@
 # STOB_DynamicQuad
 
-## NONE
+## Stob - Architecture.zip
+This archive contains PSpice files that demonstrate DRAM circuits.
